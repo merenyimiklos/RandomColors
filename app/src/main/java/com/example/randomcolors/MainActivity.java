@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 int blue = random.nextInt(255); // [0,255]
                 int green = random.nextInt(255); // [0,255]
                 int red = random.nextInt(255); // [0,255]
+                //ezt most itt a githubon írtam
 
                 textViewColor.setText("(" + red + "," + green + "," + blue + ")");
 
